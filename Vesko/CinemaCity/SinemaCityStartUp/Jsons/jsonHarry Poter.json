@@ -1,0 +1,43 @@
+{
+  "Title": "Harry Poter",
+  "Rating": "7.2",
+  "Type": "Action",
+  "Langluage": "En",
+  "Minute": 120,
+  "ProjectionsFilm": [
+    {
+      "Start": "2001-06-01T00:00:00",
+      "Price": 10.0000,
+      "Cinema": {
+        "CinemaType": {
+          "Name": "Cinema",
+          "Address": {
+            "AddressText": "Sofiq"
+          }
+        },
+        "ProjectRoom": {
+          "Number": 12,
+          "Seats": 40,
+          "Type": "Action"
+        }
+      }
+    },
+    {
+      "Start": "2001-06-01T00:00:00",
+      "Price": 12.0000,
+      "Cinema": {
+        "CinemaType": {
+          "Name": "Arena",
+          "Address": {
+            "AddressText": "Pleven"
+          }
+        },
+        "ProjectRoom": {
+          "Number": 15,
+          "Seats": 30,
+          "Type": "Comedy"
+        }
+      }
+    }
+  ]
+}
