@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2015\Projects\GeneratePDFReports\GeneratePDFReports\bin\Debug\GeneratePDFReports.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\GeneratePDFReports\GeneratePDFReports\bin\Debug\GeneratePDFReports.exe
+c:\users\administrator\documents\visual studio 2015\Projects\GeneratePDFReports\GeneratePDFReports\bin\Debug\GeneratePDFReports.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\GeneratePDFReports\GeneratePDFReports\bin\Debug\itextsharp.dll
+c:\users\administrator\documents\visual studio 2015\Projects\GeneratePDFReports\GeneratePDFReports\bin\Debug\itextsharp.pdfa.dll
+c:\users\administrator\documents\visual studio 2015\Projects\GeneratePDFReports\GeneratePDFReports\bin\Debug\itextsharp.xtra.dll
+c:\users\administrator\documents\visual studio 2015\Projects\GeneratePDFReports\GeneratePDFReports\bin\Debug\itextsharp.xml
+c:\users\administrator\documents\visual studio 2015\Projects\GeneratePDFReports\GeneratePDFReports\obj\Debug\GeneratePDFReports.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\GeneratePDFReports\GeneratePDFReports\obj\Debug\GeneratePDFReports.exe
+c:\users\administrator\documents\visual studio 2015\Projects\GeneratePDFReports\GeneratePDFReports\obj\Debug\GeneratePDFReports.pdb
