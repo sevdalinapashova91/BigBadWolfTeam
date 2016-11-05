@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaCity.Model.Data", "CinemaCity.Model.Data\CinemaCity.Model.Data.csproj", "{EE07713C-8D45-4E01-979F-3DDA749D6ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelReportsFromZipFileLoader", "ExcelReportsFromZipFileLoader\ExcelReportsFromZipFileLoader.csproj", "{A80C1BF0-D1A9-40AA-BBA7-2E495019F447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFReportsGenerator", "PDFReportsGenerator\PDFReportsGenerator.csproj", "{C1AE8AAA-49ED-4AF8-BE1D-805868F1D50C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlReportsGenerator", "XmlReportsGenerator\XmlReportsGenerator.csproj", "{A69A37BD-397D-4637-809B-62BA09175A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonReportsGenerator", "JsonReportsGenerator\JsonReportsGenerator.csproj", "{F9EEA31B-923F-43E1-918B-49A69EC8D250}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLDataLoader", "XMLDataLoader\XMLDataLoader.csproj", "{E3EB3208-967E-4C64-AE0E-7DF205E31A00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelData", "ExcelData\ExcelData.csproj", "{E253D6D8-7C04-4841-938B-6BCB29D1EA42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE07713C-8D45-4E01-979F-3DDA749D6ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE07713C-8D45-4E01-979F-3DDA749D6ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE07713C-8D45-4E01-979F-3DDA749D6ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE07713C-8D45-4E01-979F-3DDA749D6ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A80C1BF0-D1A9-40AA-BBA7-2E495019F447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80C1BF0-D1A9-40AA-BBA7-2E495019F447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80C1BF0-D1A9-40AA-BBA7-2E495019F447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80C1BF0-D1A9-40AA-BBA7-2E495019F447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1AE8AAA-49ED-4AF8-BE1D-805868F1D50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1AE8AAA-49ED-4AF8-BE1D-805868F1D50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1AE8AAA-49ED-4AF8-BE1D-805868F1D50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1AE8AAA-49ED-4AF8-BE1D-805868F1D50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69A37BD-397D-4637-809B-62BA09175A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69A37BD-397D-4637-809B-62BA09175A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69A37BD-397D-4637-809B-62BA09175A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69A37BD-397D-4637-809B-62BA09175A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9EEA31B-923F-43E1-918B-49A69EC8D250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EEA31B-923F-43E1-918B-49A69EC8D250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EEA31B-923F-43E1-918B-49A69EC8D250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EEA31B-923F-43E1-918B-49A69EC8D250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3EB3208-967E-4C64-AE0E-7DF205E31A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3EB3208-967E-4C64-AE0E-7DF205E31A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3EB3208-967E-4C64-AE0E-7DF205E31A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3EB3208-967E-4C64-AE0E-7DF205E31A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E253D6D8-7C04-4841-938B-6BCB29D1EA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E253D6D8-7C04-4841-938B-6BCB29D1EA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E253D6D8-7C04-4841-938B-6BCB29D1EA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E253D6D8-7C04-4841-938B-6BCB29D1EA42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
