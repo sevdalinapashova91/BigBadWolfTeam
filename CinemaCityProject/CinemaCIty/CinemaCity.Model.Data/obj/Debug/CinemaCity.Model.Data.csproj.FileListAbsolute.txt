@@ -1,0 +1,10 @@
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\CinemaCity.Model.Data\bin\Debug\CinemaCity.Model.Data.dll.config
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\CinemaCity.Model.Data\bin\Debug\CinemaCity.Model.Data.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\CinemaCity.Model.Data\bin\Debug\CinemaCity.Model.Data.pdb
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\CinemaCity.Model.Data\bin\Debug\EntityFramework.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\CinemaCity.Model.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\CinemaCity.Model.Data\bin\Debug\EntityFramework.xml
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\CinemaCity.Model.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\CinemaCity.Model.Data\obj\Debug\CinemaCity.Model.Data.csprojResolveAssemblyReference.cache
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\CinemaCity.Model.Data\obj\Debug\CinemaCity.Model.Data.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\CinemaCity.Model.Data\obj\Debug\CinemaCity.Model.Data.pdb

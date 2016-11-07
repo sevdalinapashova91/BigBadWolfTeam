@@ -60,6 +60,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\JsonReportsGenerator\JsonReportsGenerator.csproj">
+      <Project>{f9eea31b-923f-43e1-918b-49a69ec8d250}</Project>
+      <Name>JsonReportsGenerator</Name>
+    </ProjectReference>
     <ProjectReference Include="..\XMLDataLoader\XMLDataLoader.csproj">
       <Project>{e3eb3208-967e-4c64-ae0e-7df205e31a00}</Project>
       <Name>XMLDataLoader</Name>

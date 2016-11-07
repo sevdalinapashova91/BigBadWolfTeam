@@ -1,0 +1,14 @@
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\JsonReportsGenerator\obj\Debug\JsonReportsGenerator.csprojResolveAssemblyReference.cache
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\JsonReportsGenerator\bin\Debug\JsonReportsGenerator.dll.config
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\JsonReportsGenerator\bin\Debug\JsonReportsGenerator.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\JsonReportsGenerator\bin\Debug\JsonReportsGenerator.pdb
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\JsonReportsGenerator\bin\Debug\CinemaCity.Model.Data.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\JsonReportsGenerator\bin\Debug\EntityFramework.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\JsonReportsGenerator\bin\Debug\EntityFramework.SqlServer.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\JsonReportsGenerator\bin\Debug\Newtonsoft.Json.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\JsonReportsGenerator\bin\Debug\CinemaCity.Model.Data.pdb
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\JsonReportsGenerator\bin\Debug\EntityFramework.xml
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\JsonReportsGenerator\bin\Debug\EntityFramework.SqlServer.xml
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\JsonReportsGenerator\bin\Debug\Newtonsoft.Json.xml
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\JsonReportsGenerator\obj\Debug\JsonReportsGenerator.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\JsonReportsGenerator\obj\Debug\JsonReportsGenerator.pdb

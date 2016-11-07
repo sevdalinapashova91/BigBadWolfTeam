@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_A12680_CinemaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Cinemas">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="25" Nullable="false" />
+    <Property Name="Address" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Movies">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Rating" Type="nvarchar" MaxLength="50" />
+    <Property Name="Type" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Language" Type="nvarchar" MaxLength="2" Nullable="false" />
+    <Property Name="Minutes" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProjectionMovies">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProjectionId" Type="int" Nullable="false" />
+    <Property Name="MovieId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProjectionRooms">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Number" Type="tinyint" Nullable="false" />
+    <Property Name="Seats" Type="int" Nullable="false" />
+    <Property Name="Type" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="CinemaId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Projections">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Start" Type="datetime" Nullable="false" />
+    <Property Name="Price" Type="money" Nullable="false" />
+    <Property Name="ProjectionRoomID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_ProjectionMovies_Films">
+    <End Role="Movies" Type="Self.Movies" Multiplicity="1" />
+    <End Role="ProjectionMovies" Type="Self.ProjectionMovies" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Movies">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ProjectionMovies">
+        <PropertyRef Name="MovieId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProjectionMovies_Projections">
+    <End Role="Projections" Type="Self.Projections" Multiplicity="1" />
+    <End Role="ProjectionMovies" Type="Self.ProjectionMovies" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Projections">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ProjectionMovies">
+        <PropertyRef Name="ProjectionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProjectionRooms_Cinema">
+    <End Role="Cinemas" Type="Self.Cinemas" Multiplicity="1" />
+    <End Role="ProjectionRooms" Type="Self.ProjectionRooms" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cinemas">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ProjectionRooms">
+        <PropertyRef Name="CinemaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Projections_ProjectionRooms1">
+    <End Role="ProjectionRooms" Type="Self.ProjectionRooms" Multiplicity="1" />
+    <End Role="Projections" Type="Self.Projections" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProjectionRooms">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Projections">
+        <PropertyRef Name="ProjectionRoomID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DB_A12680_CinemaModelStoreContainer">
+    <EntitySet Name="Cinemas" EntityType="Self.Cinemas" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Movies" EntityType="Self.Movies" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProjectionMovies" EntityType="Self.ProjectionMovies" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProjectionRooms" EntityType="Self.ProjectionRooms" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Projections" EntityType="Self.Projections" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_ProjectionMovies_Films" Association="Self.FK_ProjectionMovies_Films">
+      <End Role="Movies" EntitySet="Movies" />
+      <End Role="ProjectionMovies" EntitySet="ProjectionMovies" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProjectionMovies_Projections" Association="Self.FK_ProjectionMovies_Projections">
+      <End Role="Projections" EntitySet="Projections" />
+      <End Role="ProjectionMovies" EntitySet="ProjectionMovies" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProjectionRooms_Cinema" Association="Self.FK_ProjectionRooms_Cinema">
+      <End Role="Cinemas" EntitySet="Cinemas" />
+      <End Role="ProjectionRooms" EntitySet="ProjectionRooms" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Projections_ProjectionRooms1" Association="Self.FK_Projections_ProjectionRooms1">
+      <End Role="ProjectionRooms" EntitySet="ProjectionRooms" />
+      <End Role="Projections" EntitySet="Projections" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

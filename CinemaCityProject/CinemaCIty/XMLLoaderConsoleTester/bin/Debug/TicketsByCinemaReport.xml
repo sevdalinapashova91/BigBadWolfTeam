@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<tickets>
+	<ticket cinema="CC Burgas">
+		<projection date="7.11.2016 г. 4:00:00" total-seats-price="9600,0000" />
+		<projection date="7.11.2016 г. 3:30:00" total-seats-price="4000,0000" />
+		<projection date="7.11.2016 г. 3:00:00" total-seats-price="5400,0000" />
+		<projection date="7.11.2016 г. 2:00:00" total-seats-price="2400,0000" />
+	</ticket>
+	<ticket cinema="CC Paradise">
+		<projection date="7.11.2016 г. 4:00:00" total-seats-price="10800,0000" />
+	</ticket>
+	<ticket cinema="CC Plovdiv">
+		<projection date="7.11.2016 г. 3:00:00" total-seats-price="9600,0000" />
+		<projection date="7.11.2016 г. 2:00:00" total-seats-price="5400,0000" />
+	</ticket>
+	<ticket cinema="CC Ruse">
+		<projection date="7.11.2016 г. 4:00:00" total-seats-price="600,0000" />
+	</ticket>
+	<ticket cinema="CC Sofia">
+		<projection date="7.11.2016 г. 6:00:00" total-seats-price="16000,0000" />
+	</ticket>
+	<ticket cinema="CC Stara Zagora">
+		<projection date="7.11.2016 г. 5:00:00" total-seats-price="30000,0000" />
+	</ticket>
+</tickets>

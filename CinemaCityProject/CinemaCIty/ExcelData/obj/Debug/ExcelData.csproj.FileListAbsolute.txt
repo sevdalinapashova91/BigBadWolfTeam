@@ -1,0 +1,10 @@
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelData\bin\Debug\ExcelData.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelData\bin\Debug\ExcelData.pdb
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelData\obj\Debug\ExcelData.csprojResolveAssemblyReference.cache
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelData\obj\Debug\ExcelData.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelData\obj\Debug\ExcelData.pdb
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelData\bin\Debug\ExcelData.dll.config
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelData\bin\Debug\EntityFramework.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelData\bin\Debug\EntityFramework.SqlServer.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelData\bin\Debug\EntityFramework.xml
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelData\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,12 @@
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\XMLDataLoader\bin\Debug\XMLDataLoader.dll.config
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\XMLDataLoader\bin\Debug\XMLDataLoader.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\XMLDataLoader\bin\Debug\XMLDataLoader.pdb
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\XMLDataLoader\bin\Debug\CinemaCity.Model.Data.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\XMLDataLoader\bin\Debug\EntityFramework.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\XMLDataLoader\bin\Debug\EntityFramework.SqlServer.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\XMLDataLoader\bin\Debug\CinemaCity.Model.Data.pdb
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\XMLDataLoader\bin\Debug\EntityFramework.xml
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\XMLDataLoader\bin\Debug\EntityFramework.SqlServer.xml
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\XMLDataLoader\obj\Debug\XMLDataLoader.csprojResolveAssemblyReference.cache
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\XMLDataLoader\obj\Debug\XMLDataLoader.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\XMLDataLoader\obj\Debug\XMLDataLoader.pdb

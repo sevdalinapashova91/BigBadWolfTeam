@@ -1,0 +1,10 @@
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\PDFReportsGenerator\bin\Debug\PDFReportsGenerator.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\PDFReportsGenerator\bin\Debug\PDFReportsGenerator.pdb
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\PDFReportsGenerator\obj\Debug\PDFReportsGenerator.csprojResolveAssemblyReference.cache
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\PDFReportsGenerator\obj\Debug\PDFReportsGenerator.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\PDFReportsGenerator\obj\Debug\PDFReportsGenerator.pdb
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\PDFReportsGenerator\bin\Debug\PDFReportsGenerator.dll.config
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\PDFReportsGenerator\bin\Debug\EntityFramework.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\PDFReportsGenerator\bin\Debug\EntityFramework.SqlServer.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\PDFReportsGenerator\bin\Debug\EntityFramework.xml
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\PDFReportsGenerator\bin\Debug\EntityFramework.SqlServer.xml

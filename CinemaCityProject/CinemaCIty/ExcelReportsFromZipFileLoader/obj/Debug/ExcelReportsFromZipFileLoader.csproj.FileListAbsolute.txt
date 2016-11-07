@@ -1,0 +1,10 @@
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelReportsFromZipFileLoader\bin\Debug\ExcelReportsFromZipFileLoader.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelReportsFromZipFileLoader\bin\Debug\ExcelReportsFromZipFileLoader.pdb
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelReportsFromZipFileLoader\obj\Debug\ExcelReportsFromZipFileLoader.csprojResolveAssemblyReference.cache
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelReportsFromZipFileLoader\obj\Debug\ExcelReportsFromZipFileLoader.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelReportsFromZipFileLoader\obj\Debug\ExcelReportsFromZipFileLoader.pdb
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelReportsFromZipFileLoader\bin\Debug\ExcelReportsFromZipFileLoader.dll.config
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelReportsFromZipFileLoader\bin\Debug\EntityFramework.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelReportsFromZipFileLoader\bin\Debug\EntityFramework.SqlServer.dll
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelReportsFromZipFileLoader\bin\Debug\EntityFramework.xml
+D:\YAVOR\TELERIK\DATABASES_NEW\TEAMWORK\BigBadWolfTeam\CinemaCityProject\CinemaCIty\ExcelReportsFromZipFileLoader\bin\Debug\EntityFramework.SqlServer.xml
